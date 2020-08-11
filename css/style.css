@@ -1,0 +1,378 @@
+
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.my-nav{
+
+}
+.my-nav .navbar-brand{
+	margin-left: 9%;
+}
+.my-nav .navbar-brand span{
+	font-weight: 700;
+	color: #fff;
+}
+.my-nav .navbar-nav .nav-item{
+	margin: 0px 15px;
+} 
+.my-nav .navbar-nav .nav-item a{
+	font-size: 17px;
+	color: #F3f4f5;
+}
+.my-nav .navbar-nav .nav-item a:hover{
+	color: red;
+}
+
+header .site-content{
+	position: relative;
+	top: 20%;
+	left: 0%;
+}
+header .site-content .container h2{
+	color: #f9f9f9;
+	letter-spacing: 2px;
+	font-weight: 500;
+}
+header .site-content .container p{
+	color: #f1f1f1;
+	font-size: 18px;
+	letter-spacing: 2px;
+}
+header .site-content .container .button{
+	border-radius: 50px 50px;
+	font-size: 18px;
+	color: #FFF;
+}
+header .site-content .container .button:hover{
+	color: #000;
+}
+
+
+.ftco-intro{
+	color: #f3f3f3;
+}
+.ftco-intro .container .no-gutters{
+	margin-left: 0px;
+	margin-right: 0px;
+	position: relative;
+	top: -30px;
+}
+.ftco-intro .container .no-gutters .color-1{
+	background: #2CBCBC;
+}
+.ftco-intro .container .no-gutters .color-1 p{
+	font-size: 16px;
+	line-height: 1.5;
+	font-weight: 400;
+	letter-spacing: 1px;
+}
+.ftco-intro .container .no-gutters .color-1 span{
+	font-size: 19px;
+}
+.ftco-intro .container .no-gutters .color-2{
+	background: #21AAC4;
+}
+.ftco-intro .openinghours span{
+    width: 100%;
+    display: block;
+    line-height: 2rem;
+    font-size: 16px;
+}
+
+.ftco-intro .container .no-gutters .color-3{
+	background: #2DA8D5;
+}
+.ftco-intro .form-group .select-wrap select{
+	border-radius: 50px;
+}
+
+
+
+.ftco-services h2{
+	color: #2DA8D5;
+	font-weight: 300;
+}
+.ftco-services p{
+	color: #aaa;
+	
+}
+.ftco-services .heading-4 h4{
+	font-weight: 400;
+	margin: 8px 0px;
+}
+.ftco-services .heading-4 p{
+	color: #aaa;
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+
+
+
+
+.ftco-section-Pricing{
+	margin:70px 0px;
+}
+.ftco-section-Pricing h2{
+	font-weight: 300;
+	color: dodgerblue;
+	margin: 20px 0px;
+	font-size: 35px;
+	letter-spacing: 3px;
+}
+.ftco-section-Pricing p{
+	color: #aaa;
+	font-size: 16px;
+	letter-spacing: 1px;
+	margin-bottom: 70px;
+}
+.ftco-section-Pricing .pricing-entry{
+	border: 1px solid #f0f0f0;
+	min-height: 300px;
+	margin: 12px;
+	padding: 8px;
+	margin-bottom: 20px;
+}
+.ftco-section-Pricing .pricing-entry:hover{
+	border: 1px solid dodgerblue;
+	box-shadow: 3px 5px 7px #f2f2f2;
+}
+.ftco-section-Pricing .pricing-entry h4{
+	color: #444;
+	font-weight: 500;
+	font-size: 16px;
+	margin: 10px 0px;
+	margin-bottom: 20px;
+}
+.ftco-section-Pricing .pricing-entry p{
+	font-size: 25px;
+	color: dodgerblue;
+	font-weight: 500;
+}
+.ftco-section-Pricing .pricing-entry span{
+	font-size: 16px;
+	color: #aaa;
+	font-weight: 300;
+}
+.ftco-section-Pricing .pricing-entry ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.ftco-section-Pricing .pricing-entry ul li{
+	padding: 10px 0px;
+	color: #282923;
+	text-align: center;
+}
+.pricing-entry ul li:nth-child(odd){
+	background: #fafafa;
+}
+
+
+
+
+
+
+
+
+
+
+.ftco-section-parallax{
+	background: dodgerblue;
+	min-height: 250px;
+}
+
+.ftco-section-parallax h3{
+	color: #fff;
+	font-weight: 400;
+	margin-top: 4rem;
+	margin-bottom: 3rem;
+	letter-spacing: 2px;
+}
+.ftco-section-parallax p{
+	color: #e1e2e3;
+	letter-spacing: 1px;
+	margin-bottom: 60px;
+}
+.ftco-section-parallax .form-control{
+	background: dodgerblue;
+	height: 50px;
+	width: 300px;
+	border-left: none;
+	border-top: none;
+	border-right: none;
+	font-size: 18px;
+}
+.ftco-section-parallax .button{
+	cursor: pointer;
+	padding: 10px 20px;
+	letter-spacing: 2px;
+	font-size: 18px;
+}
+
+
+
+.bg-img{
+	color: #fff;
+	margin: 70px 0px;
+}
+.bg-img .col-md-3{
+	
+}
+.bg-img h3{
+	font-weight: 400;
+	color: #fff;
+	margin: 20px 0px 20px 0px;
+}
+.bg-img p{
+	font-size: 16px;
+	letter-spacing: 1px;
+}
+.bg-img strong{
+	font-weight: 400;
+	font-size: 30px;
+	letter-spacing: 1px;
+	line-height: 4rem;
+	margin: 20px 0px;
+}
+.bg-img span{
+	display: block;
+	font-size: 16px;
+	letter-spacing: 1px;
+	line-height: 1rem;
+	margin-bottom: 50px;
+	color: #eee;
+}
+
+
+
+
+.ftco-section-meet{
+	color: #999;
+	margin: 100px 0px;
+}
+.ftco-section-meet .h3{
+	font-weight: 300;
+	font-size: 35px;
+	margin-bottom: 30px;
+}
+.ftco-section-meet .lead{
+	margin-bottom: 100px;
+}
+.ftco-section-meet .card{
+	box-shadow: 3px 5px 5px;
+	color: #aaa;
+	margin: 10px 10px;
+}
+.ftco-section-meet .card:hover{
+	box-shadow: 3px 7px 10px;
+}
+.ftco-section-meet h3{
+	color: #000;
+	margin: 10px 0px;
+	font-weight: 400;
+	font-size: 19px;
+}
+.ftco-section-meet img{
+	height: 170px;
+	width: 170px;
+	margin-top: 10px;
+} 
+.ftco-section-meet a{
+	color: #000;
+	text-decoration: none;
+}
+.ftco-section-meet p{
+	font-size: 18px;
+	margin-bottom: 25px;
+}
+.ftco-section-meet span{
+	color: dodgerblue;
+	display: block;
+}
+.ftco-section-meet .img-circle{
+	border-radius: 50%;
+}
+.ftco-section-meet ul{
+	list-style-type: none;
+}
+.ftco-section-meet ul li{
+	display: inline;
+}
+.ftco-section-meet ul li a{
+	color: dodgerblue;
+	padding: 5px 5px;
+}
+.ftco-section-meet ul li a:hover{
+	color: #f00;
+}
+
+
+
+
+.ftco-quote{
+	margin-bottom: 0px;
+}
+.ftco-quote h3{
+	font-weight: 300;
+	font-size: 35px;
+	color: #f9f9f9;
+	margin-bottom:50px;
+	margin-top:50px;
+}
+.ftco-quote .form-control{
+	background: #FFFFFF90;
+	margin-bottom: 20px;
+}
+.ftco-quote button{
+	border-radius: 50px;
+	padding: 12px 30px;
+	font-size: 20px;
+	color: #fff;
+	margin-bottom: 40px;
+}
+.ftco-quote button:hover{
+	color: #000;
+}
+
+
+
+
+
+.ftco-footer{
+	color: #fff;
+}
+.ftco-footer h3{
+	margin: 40px 0px;
+	font-weight: 300;
+	font-size: 20px;
+}
+.ftco-footer .f-one p{
+	letter-spacing: 1px;
+	color: #aaa;
+	margin-bottom: 40px;
+}
+.ftco-footer .f-one .unstyled{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+.ftco-footer .f-one .list-itm{
+	display: inline;
+	margin: 10px 5px;
+	padding: 10px 10px;
+}
+.ftco-footer .f-one .list-lnk{
+	text-decoration: none;
+	color: #fff;
+}
+.ftco-footer .f-one ul li a:hover{
+	color: #000;
+}
+
+
+
+.ftco-footer .f-three{
+	color: 
+}
+
